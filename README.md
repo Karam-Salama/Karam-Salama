@@ -1,16 +1,31 @@
-## Hi there 👋
+# Karam Salama
 
-<!--
-**Karam-Salama/Karam-Salama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](url-to-your-image)
 
-Here are some ideas to get you started:
+## <span class="animated-text">Software Engineer :)</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <span class="animated-text">Flutter Developer</span>
+
+
+## Popular Repositories
+
+- [dalel]([https://github.com/HappyTechChannel/happy_tech_mastering_api_with_flutter](https://github.com/Karam-Salama/dalel)) ![Stars]
+- [Medical Appointment](https://github.com/Karam-Salama/medical_appointments-)
+
+
+<!-- Add more repositories as needed -->
+
+<style>
+.animated-text {
+  display: inline-block;
+  font-size: 1.5em;
+  font-weight: bold;
+  animation: fadeIn 2s infinite;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  50% { opacity: 1; }
+  100% { opacity: 0; }
+}
+</style>
