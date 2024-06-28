@@ -1,6 +1,5 @@
 # Karam Salama
 
-![Profile Banner](url-to-your-image)
 
 ## <span class="animated-text">Software Engineer :)</span>
 
