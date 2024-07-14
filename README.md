@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Flutter Developer"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+and+BackEnd+Developer"></a>
 </p>
 
 
