@@ -10,7 +10,7 @@
 </p> 
 
 - 👨‍💻 As a CS Graduate, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Flutter, Dart, API, and Firebase, or anything related to Mobile Development.
+- 💬 Experienced with Flutter, Dart, API, and Firebase, or anything related to Mobile Development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 ### Connect with Me :
