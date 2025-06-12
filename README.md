@@ -49,17 +49,26 @@ Here are some of my recent projects that showcase my expertise:
      - DoMe is a simple yet powerful task management app designed to help you stay organized and productive. With an intuitive interface, you can easily add, update, or delete tasks, set reminders, and manage 
        your daily to-do list with ease.
 
+- **[Movir App](https://github.com/Karam-Salama/Movir-App)**  
+  _Technologies: Flutter, Dart, Api, Cubit, Firebase  and Clean Architecture_
+     - Movir is a sleek movie ticket reservation app that allows users to browse movies, view details, and book tickets easily. Built with Flutter using Clean Architecture, Cubit state management, and Firebase           integration. 
+
 🔍 **Check out more of my projects in [my repositories](https://github.com/Karam-Salama?tab=repositories)!**
 
 ---
 
 # 🌟 Certifications
 
-Here are some of the certifications I've earned:
-
-- **Maharah Tech Core Java Programming**
-- **HackerRank Java Certifications (java (Basic))**
-- **Maharah Tech Learning Kotlin for Android**
+Here are some of the certifications I've earned:   
+- **Core Java Programming (Maharah Tech)**
+- **Java Basic Certifications (HackerRank)**
+- **Learning Kotlin for Android (Maharah Tech)**
+- **Developing Mobile Applications for Android using Java (Maharah Tech)**
+- **Android Kotlin Development (Udemy)**
+- **The complete Flutter & Dart Development Course**
+- **Flutter Advanced Bloc and MVVM Pattern Course**
+- **Flutter & Firebase Build Your Own Ecommerce Course**
+ 
 
 🎓 **Explore the full list of my certifications on [LinkedIn](https://linkedin.com/in/Karam-Salama/)!**
 
