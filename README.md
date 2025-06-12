@@ -81,4 +81,4 @@ Here are some of the certifications I've earned:
 
 # 🌐 Portfolio
 
-Check out my full portfolio on my [website](<https://www.figma.com/design/zHJjXYSUZm0IzQQAjmRNv7/Mobile-App-Portfolio-(Community)?node-id=0-1&p=f&t=gfj3a7AybfT4dsFN-0>) to see my work and the projects I’ve completed!
+Check out my full portfolio on my [website](https://karam-salama-vc6dgdq.gamma.site/) to see my work and the projects I’ve completed!
