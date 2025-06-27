@@ -102,13 +102,13 @@ Here are some of my recent projects that showcase my expertise:
 
 ---
 
-## 🏆 GitHub Trophies
+## 💪 My Open Source Impact
 
-![](https://github-profile-trophy.vercel.app/?username=Karam-Salama&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🔃 Opened **50+ Pull Requests**
+- 🛠️ Contributed to multiple repositories
+- 🌟 Actively engaged with the GitHub community
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=Karam-Salama&icon=0&color=9)](https://visitcount.itsvg.in)
 
 # 📫 Contact Me
 
