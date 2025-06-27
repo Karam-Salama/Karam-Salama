@@ -9,10 +9,9 @@ experiences.
 
 ## 💫 About Me:
 
-- 📊 Currently freelancing on Upwork, Mostaql, and Khamsat.
+- 🔍 I'm currently open to freelance or full-time opportunities as Flutter development on Upwork, Mostaql, and Khamsat.
 - 📚 Continuously learning from platforms like Udemy and Maharah Tech.
 - 🌱 Exploring advanced topics in Flutter, automation techniques, and anything related to Mobile Development.
-- 🔍 I'm currently open to freelance or full-time opportunities in Flutter development, where I can contribute to building impactful, scalable mobile applications.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - ✨ Fluent in Arabic and English (B2).
 
